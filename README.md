@@ -8,6 +8,7 @@
 
 - [ ] Responder qualquer pessoa
 - [ ] Enviar documentos do telegram para WhatsApp
+- [ ] Documentação
 
 # Tutoriais utilizados
 
