@@ -1,7 +1,7 @@
 # TODO
 
-- [] Responder qualquer pessoa
-- [] Enviar imagens do telegram para WhatsApp
+- [ ] Responder qualquer pessoa
+- [ ] Enviar documentos do telegram para WhatsApp
 
 # Tutoriais utilizados
 
