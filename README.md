@@ -22,6 +22,6 @@
 
 ## 🫂 Contribuidores
 
-<a href = "https://github.com/petsi-each/pet-sites-boilerplate/contributors">
-  <img src = "https://contrib.rocks/image?repo=petsi-each/pet-sites-boilerplate"/>
+<a href = "https://github.com/cursinhoeachusp/AtenazapBot/contributors">
+  <img src = "https://contrib.rocks/image?repo=cursinhoeachusp/AtenazapBot"/>
 </a>
