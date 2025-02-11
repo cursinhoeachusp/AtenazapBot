@@ -6,8 +6,10 @@
 
 # TODO
 
-- [ ] Responder qualquer pessoa
+- [X] Responder qualquer pessoa
 - [ ] Enviar documentos do telegram para WhatsApp
+- [ ] Subir para prod
+- [ ] Batch
 - [ ] Documentação
 
 # Tutoriais utilizados
@@ -17,3 +19,9 @@
 - Tutorial de webhooks da Meta (https://developers.facebook.com/docs/whatsapp/sample-app-endpoints)
 - Primeiros passos com API de gerenciamento do WhatsApp Business (https://developers.facebook.com/docs/whatsapp/business-management-api/get-started)
 - Criação de bots do telegram com node.js usando telegraf (https://www.youtube.com/watch?v=HYK9mPAQFd4) 
+
+## 🫂 Contribuidores
+
+<a href = "https://github.com/petsi-each/pet-sites-boilerplate/contributors">
+  <img src = "https://contrib.rocks/image?repo=petsi-each/pet-sites-boilerplate"/>
+</a>
