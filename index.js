@@ -17,8 +17,10 @@ app.get("/webhook", validateWebhook);
 
 app.post("/webhook", processWebhook);
 
-app.listen(3000, () => {
-  console.log("Server started on port 3000");
+const port = process.env.PORT || 3000
+
+app.listen(port, () => {
+  console.log(`Server started on port ${port}`);
   
   // TEST PURPOSE
   // sendMessageToWhatsApp("NUMERO TESTE", "INICIANDO TESTEEEEEERRR");
